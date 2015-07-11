@@ -147,7 +147,7 @@
             tooltipXOffset: 10,
 
             // String - Template string for single tooltips
-            tooltipTemplate: "<%=datasetLabel%> - <%= value %>",
+            tooltipTemplate: "<%=label%> \\n<%=datasetLabel%> - <%= value %>",
 
             // String - Template string for single tooltips
             // multiTooltipTemplate: "<%= value %>",
